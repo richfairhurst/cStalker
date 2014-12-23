@@ -32,3 +32,4 @@ Tracking movement around a campus or building:
 
  - Add a date / time filter
  - Device lookup via OID and then change / return Maltego entity based on type 
+ - Treading / Multiprocessing the WLC polling
