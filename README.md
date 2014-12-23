@@ -17,7 +17,7 @@ You might do something like this:
 
 or skip a few steps and return Usernames from the Wireless LAN Controllers - I guess it depends scale of your wireless estate.
 
-This also probably falls foul of various European privacy / data protection regulations if do this across some European countries so I'm not sure you actually want to implement this in a corporate environment but if you did and you scaled it globally you can get some really nice Maltego maps of which sites your business travelers are traveling to/from.
+This also probably falls foul of various European privacy / data protection regulations so I'm not sure you actually want to implement this in a corporate environment but if you did and you scaled it globally you can get some really nice Maltego maps of which sites your business travelers are traveling to/from.
 
 Tracking travelling users:
 
